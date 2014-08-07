@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-This is my fg
-=======
-sssThis is my secnd test
->>>>>>> snake
-THis is another test
+fdgfdg
